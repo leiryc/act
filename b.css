@@ -1,0 +1,16 @@
+
+body {
+    background-image: url(aa.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+form {
+    text-align: center;
+}
+.b {
+    justify-content: center;
+    align-items: center;
+}
